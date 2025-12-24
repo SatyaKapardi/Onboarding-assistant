@@ -49,16 +49,16 @@ A conversational AI assistant that helps office space hosts create professional 
 
 ### Key Features
 
-- **🤖 AI-Powered Conversations**: Uses Groq AI (Llama 3.1) to generate natural, contextual responses
-- **📋 Multi-Phase Flow**: Guides users through 5 phases:
+- **AI-Powered Conversations**: Uses Groq AI (Llama 3.1) to generate natural, contextual responses
+- **Multi-Phase Flow**: Guides users through 5 phases:
   1. Space Basics (location, size, type, capacity)
   2. Configuration & Amenities (layout, amenities, standout features)
   3. Terms & Availability (move-in date, lease terms, restrictions)
   4. Pricing Intelligence (suggested pricing with comparables)
   5. Listing Preview & Generation
-- **💰 Smart Pricing**: Location-based pricing tiers with amenity adjustments and comparable listings
-- **💾 Session Persistence**: Conversations are saved and can be resumed after page refresh
-- **📱 Modern UI**: Clean, responsive chat interface with typing indicators and smooth animations
+- **Smart Pricing**: Location-based pricing tiers with amenity adjustments and comparable listings
+- **Session Persistence**: Conversations are saved and can be resumed after page refresh
+- **Modern UI**: Clean, responsive chat interface with typing indicators and smooth animations
 
 ### Technology Stack
 
